@@ -1,0 +1,12 @@
+{
+	"name": "hello_sdl",
+	"authors": [
+		"Emiliano Firmino"
+	],
+	"dependencies": {
+		"derelict-sdl2": "~>3.0.0-beta"
+	},
+	"description": "Hello SDL",
+	"copyright": "Copyright © 2017, Emiliano Firmino",
+	"license": "Unlicensed"
+}
